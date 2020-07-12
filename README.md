@@ -6,7 +6,10 @@
 ### GAN 요약설명
   - GAN = Generative Adversarial Network = 적대적 생성 모델
     - 쉽게 설명해서 실제같은 형태를 갖춘 데이터를 만들어내는 알고리즘
-    > <img src="https://user-images.githubusercontent.com/47767202/87246233-fd25dc00-c486-11ea-9bd5-ae517798961b.png" width="40%"> <br>
+    > <img src="https://user-images.githubusercontent.com/47767202/87246233-fd25dc00-c486-11ea-9bd5-ae517798961b.png" width="40%">
+    >> **Generator** - 지폐 위조범 / **Discriminator** - 경찰
+    >> **위조범**은 경찰의 단속을 피하기 위해서 더욱 **정교한 가짜 지폐를 만들어**내고
+    >> **경찰**은 더욱 정교한 기법으로 지폐를 판별해내는 방법을 개발해냄 
     > <img src="https://user-images.githubusercontent.com/47767202/87246247-1dee3180-c487-11ea-904c-9993775f0aef.png" width="50%">
 
 
