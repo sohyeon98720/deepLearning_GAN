@@ -19,3 +19,4 @@
 
 
 [참고사이트](https://yamalab.tistory.com/98)
+[참고사이트2](https://www.samsungsds.com/global/ko/support/insights/Generative-adversarial-network-AI-2.html)
