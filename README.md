@@ -20,12 +20,14 @@
     
 ------------------
 
-### MNIST tutorial
+### keras gan mnist tutorial
 https://colab.research.google.com/drive/1RcYxh17bwST6Wi0N5TNidoeSZc-k_XoT
 
 ------------------
 
-### DCGAN with vein data
+### keras gan with vein data
+
+------------------
 
 [참고사이트](https://yamalab.tistory.com/98)<br>
 [참고사이트2](https://www.samsungsds.com/global/ko/support/insights/Generative-adversarial-network-AI-2.html)
