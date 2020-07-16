@@ -18,7 +18,14 @@
 
     - =>**실제같은 형태를 갖춘 데이터를 만들어내는 알고리즘**<br>
     
-    
+------------------
+
+### MNIST tutorial
+https://colab.research.google.com/drive/1RcYxh17bwST6Wi0N5TNidoeSZc-k_XoT
+
+------------------
+
+### DCGAN with vein data
 
 [참고사이트](https://yamalab.tistory.com/98)<br>
 [참고사이트2](https://www.samsungsds.com/global/ko/support/insights/Generative-adversarial-network-AI-2.html)
