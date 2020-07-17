@@ -21,12 +21,13 @@
 ------------------
 
 ### keras gan mnist tutorial
-https://colab.research.google.com/drive/1RcYxh17bwST6Wi0N5TNidoeSZc-k_XoT
+https://colab.research.google.com/drive/1RcYxh17bwST6Wi0N5TNidoeSZc-k_XoT 참고
 
 ------------------
 
 ### keras gan with vein data
-
+  - 데이터 설명: 
+  
 ------------------
 
 [참고사이트](https://yamalab.tistory.com/98)<br>
