@@ -26,7 +26,8 @@ https://colab.research.google.com/drive/1RcYxh17bwST6Wi0N5TNidoeSZc-k_XoT 참고
 ------------------
 
 ### keras gan with vein data
-  - data: 
+  - data: 152x60 사이즈의 정맥사진 2610장(한 사람당 엄지를 제외한 8손가락 x 한 손가락당 10번 영상획득)
+          불분명한 영상 제외
   - model: 
   
 ------------------
