@@ -21,14 +21,15 @@
 ------------------
 
 ### keras gan mnist tutorial
-  - data: 
+  - data: 사이즈
+  > <img src="https://user-images.githubusercontent.com/47767202/87944525-7900d380-cada-11ea-8930-bf9e7c63ab62.png" width="30%"> <br>
   - 참고자료: https://colab.research.google.com/drive/1RcYxh17bwST6Wi0N5TNidoeSZc-k_XoT
 
 ------------------
 
 ### keras gan with vein data
   - data: **152x60** 사이즈의 정맥사진 **2610장**(한 사람당 엄지를 제외한 8손가락 x 한 손가락당 10번 영상획득 - 불분명한 영상 제외)
-  > <img src="https://user-images.githubusercontent.com/47767202/87844623-d0941900-c8f9-11ea-8420-9fc215071fbf.jpg"> <br>
+  > <img src="https://user-images.githubusercontent.com/47767202/87944784-cc732180-cada-11ea-9ff0-9bb0caaf68ec.png"> <br>
   > 정맥 사진 예시<br>
   
 ------------------
