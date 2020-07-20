@@ -21,8 +21,9 @@
 ------------------
 
 ### keras gan mnist tutorial
-  - data: 사이즈
+  - data: **28x28** 사이즈의 손글씨 사진 **60000**장
   > <img src="https://user-images.githubusercontent.com/47767202/87944784-cc732180-cada-11ea-9ff0-9bb0caaf68ec.png" width="30%"> <br>
+  > 손글씨 사진 예시
   - 참고자료: https://colab.research.google.com/drive/1RcYxh17bwST6Wi0N5TNidoeSZc-k_XoT
 
 ------------------
