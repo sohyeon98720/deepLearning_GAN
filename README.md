@@ -29,7 +29,7 @@
 
 ### keras gan with vein data
   - data: **152x60** 사이즈의 정맥사진 **2610장**(한 사람당 엄지를 제외한 8손가락 x 한 손가락당 10번 영상획득 - 불분명한 영상 제외)
-  > <img src="https://user-images.githubusercontent.com/47767202/87944784-cc732180-cada-11ea-9ff0-9bb0caaf68ec.png"> <br>
+  > <img src="https://user-images.githubusercontent.com/47767202/87944940-06442800-cadb-11ea-8d1b-a5587b34c588.jpg"> <br>
   > 정맥 사진 예시<br>
   
 ------------------
