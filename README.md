@@ -22,7 +22,7 @@
 
 ### keras gan mnist tutorial
   - data: 사이즈
-  > <img src="https://user-images.githubusercontent.com/47767202/87944525-7900d380-cada-11ea-8930-bf9e7c63ab62.png" width="30%"> <br>
+  > <img src="https://user-images.githubusercontent.com/47767202/87944784-cc732180-cada-11ea-9ff0-9bb0caaf68ec.png" width="30%"> <br>
   - 참고자료: https://colab.research.google.com/drive/1RcYxh17bwST6Wi0N5TNidoeSZc-k_XoT
 
 ------------------
