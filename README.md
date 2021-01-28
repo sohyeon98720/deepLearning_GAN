@@ -16,7 +16,7 @@
     > <img src="https://user-images.githubusercontent.com/47767202/87246247-1dee3180-c487-11ea-904c-9993775f0aef.png" width="50%"> <br>
     >> 위의 지폐위조범-경찰 예시를 모델에 적용하여 나타낸 구조
 
-    - =>**실제같은 형태를 갖춘 데이터를 만들어내는 알고리즘**<br>
+    =>**실제같은 형태를 갖춘 데이터를 만들어내는 알고리즘**<br>
     
 ------------------
 
@@ -32,8 +32,6 @@
   - data: **152x60** 사이즈의 지정맥영상 **2610장**(한 사람당 엄지를 제외한 8손가락 x 한 손가락당 10번 영상획득 - 불분명한 영상 제외)
   > <img src="https://user-images.githubusercontent.com/47767202/87944940-06442800-cadb-11ea-8d1b-a5587b34c588.jpg"> <br>
   > 지정맥 영상 예시<br>
-  
-------------------
-### 참고 자료
-  - https://yamalab.tistory.com/98
-  - https://www.samsungsds.com/global/ko/support/insights/Generative-adversarial-network-AI-2.html
+  - 참고 자료
+    - https://yamalab.tistory.com/98
+    - https://www.samsungsds.com/global/ko/support/insights/Generative-adversarial-network-AI-2.html
